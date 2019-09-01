@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/53/trunk/trunk/src/main/java/com/nullfish/app/jfd2
+END
+JFDMarkModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/35/trunk/trunk/src/main/java/com/nullfish/app/jfd2/JFDMarkModel.java
+END
+AutoUpdateLockManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/35/trunk/trunk/src/main/java/com/nullfish/app/jfd2/AutoUpdateLockManager.java
+END
+Launcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/53/trunk/trunk/src/main/java/com/nullfish/app/jfd2/Launcher.java
+END
+FileMarker.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/35/trunk/trunk/src/main/java/com/nullfish/app/jfd2/FileMarker.java
+END
+JFD.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/51/trunk/trunk/src/main/java/com/nullfish/app/jfd2/JFD.java
+END
+JFDModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/43/trunk/trunk/src/main/java/com/nullfish/app/jfd2/JFDModel.java
+END
+JFDModelAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/35/trunk/trunk/src/main/java/com/nullfish/app/jfd2/JFDModelAdapter.java
+END
+JFD2.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/51/trunk/trunk/src/main/java/com/nullfish/app/jfd2/JFD2.java
+END
+JFDComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/35/trunk/trunk/src/main/java/com/nullfish/app/jfd2/JFDComponent.java
+END
+Initable.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/35/trunk/trunk/src/main/java/com/nullfish/app/jfd2/Initable.java
+END
+ComboBoxTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/35/trunk/trunk/src/main/java/com/nullfish/app/jfd2/ComboBoxTest.java
+END
+ManipulationMessageUpdater.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/51/trunk/trunk/src/main/java/com/nullfish/app/jfd2/ManipulationMessageUpdater.java
+END
+JFDModelListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/35/trunk/trunk/src/main/java/com/nullfish/app/jfd2/JFDModelListener.java
+END

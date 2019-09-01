@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/35/trunk/trunk/src/main/java/com/nullfish/app/jfd2/ext_command_panel/translators
+END
+MarkedFilesExecAllTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/35/trunk/trunk/src/main/java/com/nullfish/app/jfd2/ext_command_panel/translators/MarkedFilesExecAllTranslator.java
+END
+MarkedFilesTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/35/trunk/trunk/src/main/java/com/nullfish/app/jfd2/ext_command_panel/translators/MarkedFilesTranslator.java
+END
+CurrentDirectoryTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/35/trunk/trunk/src/main/java/com/nullfish/app/jfd2/ext_command_panel/translators/CurrentDirectoryTranslator.java
+END
+MarkedFiles10EachTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/35/trunk/trunk/src/main/java/com/nullfish/app/jfd2/ext_command_panel/translators/MarkedFiles10EachTranslator.java
+END
+SelectedFileTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/35/trunk/trunk/src/main/java/com/nullfish/app/jfd2/ext_command_panel/translators/SelectedFileTranslator.java
+END
+FullPathSelectedFileTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/35/trunk/trunk/src/main/java/com/nullfish/app/jfd2/ext_command_panel/translators/FullPathSelectedFileTranslator.java
+END
+MakeActiveTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/35/trunk/trunk/src/main/java/com/nullfish/app/jfd2/ext_command_panel/translators/MakeActiveTranslator.java
+END
+NoExtensionTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/35/trunk/trunk/src/main/java/com/nullfish/app/jfd2/ext_command_panel/translators/NoExtensionTranslator.java
+END
+NoDialogTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/35/trunk/trunk/src/main/java/com/nullfish/app/jfd2/ext_command_panel/translators/NoDialogTranslator.java
+END
+CommandTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/35/trunk/trunk/src/main/java/com/nullfish/app/jfd2/ext_command_panel/translators/CommandTranslator.java
+END
+NoExtensionMarkedFilesExecAllTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/35/trunk/trunk/src/main/java/com/nullfish/app/jfd2/ext_command_panel/translators/NoExtensionMarkedFilesExecAllTranslator.java
+END
+NoExtensionMarkedFilesTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/35/trunk/trunk/src/main/java/com/nullfish/app/jfd2/ext_command_panel/translators/NoExtensionMarkedFilesTranslator.java
+END
+NoExtensionMarkedFiles10EachTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/35/trunk/trunk/src/main/java/com/nullfish/app/jfd2/ext_command_panel/translators/NoExtensionMarkedFiles10EachTranslator.java
+END
+RootTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/35/trunk/trunk/src/main/java/com/nullfish/app/jfd2/ext_command_panel/translators/RootTranslator.java
+END

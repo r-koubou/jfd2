@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/53/trunk/trunk/src/main/java/com/nullfish/app/jfd2/ui/container2
+END
+JFD2TitleUpdater.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/35/trunk/trunk/src/main/java/com/nullfish/app/jfd2/ui/container2/JFD2TitleUpdater.java
+END
+JFDOwner.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/35/trunk/trunk/src/main/java/com/nullfish/app/jfd2/ui/container2/JFDOwner.java
+END
+JFDFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/53/trunk/trunk/src/main/java/com/nullfish/app/jfd2/ui/container2/JFDFrame.java
+END
+JFDContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/35/trunk/trunk/src/main/java/com/nullfish/app/jfd2/ui/container2/JFDContainer.java
+END
+TitleUpdater.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/35/trunk/trunk/src/main/java/com/nullfish/app/jfd2/ui/container2/TitleUpdater.java
+END
+NumberedJFD2.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/51/trunk/trunk/src/main/java/com/nullfish/app/jfd2/ui/container2/NumberedJFD2.java
+END
+ContainerPosition.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/51/trunk/trunk/src/main/java/com/nullfish/app/jfd2/ui/container2/ContainerPosition.java
+END
+TabbedPaneDropTargetListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/35/trunk/trunk/src/main/java/com/nullfish/app/jfd2/ui/container2/TabbedPaneDropTargetListener.java
+END
+JFDNumberChangeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/35/trunk/trunk/src/main/java/com/nullfish/app/jfd2/ui/container2/JFDNumberChangeListener.java
+END
+JFDOwnerCommandManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/51/trunk/trunk/src/main/java/com/nullfish/app/jfd2/ui/container2/JFDOwnerCommandManager.java
+END

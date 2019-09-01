@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/50/trunk/trunk/src/main/resources/resources
+END
+command_option_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/35/trunk/trunk/src/main/resources/resources/command_option_layout.xml
+END
+option_layout_ftp_tab.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/35/trunk/trunk/src/main/resources/resources/option_layout_ftp_tab.xml
+END
+option_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/35/trunk/trunk/src/main/resources/resources/option_layout.xml
+END
+option_layout_etc_tab.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/45/trunk/trunk/src/main/resources/resources/option_layout_etc_tab.xml
+END
+text_viewer_menu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/35/trunk/trunk/src/main/resources/resources/text_viewer_menu.xml
+END
+option_layout_apearance_tab.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/49/trunk/trunk/src/main/resources/resources/option_layout_apearance_tab.xml
+END
+option_layout_apearance2_tab.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/47/trunk/trunk/src/main/resources/resources/option_layout_apearance2_tab.xml
+END
+option_layout_directory_tab.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/50/trunk/trunk/src/main/resources/resources/option_layout_directory_tab.xml
+END
+graphic_viewer_menu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/35/trunk/trunk/src/main/resources/resources/graphic_viewer_menu.xml
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/52/trunk/trunk/src/main/resources/conf/ja
+END
+menubar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/52/trunk/trunk/src/main/resources/conf/ja/menubar.xml
+END
+keys.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/45/trunk/trunk/src/main/resources/conf/ja/keys.xml
+END
+aliase_win.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/35/trunk/trunk/src/main/resources/conf/ja/aliase_win.xml
+END
+common_config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/35/trunk/trunk/src/main/resources/conf/ja/common_config.xml
+END
+command.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/50/trunk/trunk/src/main/resources/conf/ja/command.xml
+END
+local_config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/35/trunk/trunk/src/main/resources/conf/ja/local_config.xml
+END
+external_command.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/35/trunk/trunk/src/main/resources/conf/ja/external_command.xml
+END
+aliase_unix.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/35/trunk/trunk/src/main/resources/conf/ja/aliase_unix.xml
+END
+popup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/52/trunk/trunk/src/main/resources/conf/ja/popup.xml
+END
+function.ini
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/35/trunk/trunk/src/main/resources/conf/ja/function.ini
+END
+owner_keys.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/52/trunk/trunk/src/main/resources/conf/ja/owner_keys.xml
+END
+owner_command.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/52/trunk/trunk/src/main/resources/conf/ja/owner_command.xml
+END

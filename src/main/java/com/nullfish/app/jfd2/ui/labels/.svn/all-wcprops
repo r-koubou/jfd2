@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/46/trunk/trunk/src/main/java/com/nullfish/app/jfd2/ui/labels
+END
+FileSizeLabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/35/trunk/trunk/src/main/java/com/nullfish/app/jfd2/ui/labels/FileSizeLabel.java
+END
+ToolTipLabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/35/trunk/trunk/src/main/java/com/nullfish/app/jfd2/ui/labels/ToolTipLabel.java
+END
+FileInfoLabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/35/trunk/trunk/src/main/java/com/nullfish/app/jfd2/ui/labels/FileInfoLabel.java
+END
+PageLabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/35/trunk/trunk/src/main/java/com/nullfish/app/jfd2/ui/labels/PageLabel.java
+END
+FileSystemSizeLabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/35/trunk/trunk/src/main/java/com/nullfish/app/jfd2/ui/labels/FileSystemSizeLabel.java
+END
+MarkSumLabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/35/trunk/trunk/src/main/java/com/nullfish/app/jfd2/ui/labels/MarkSumLabel.java
+END
+JFDLabelUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/46/trunk/trunk/src/main/java/com/nullfish/app/jfd2/ui/labels/JFDLabelUI.java
+END
+EqualSizePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/35/trunk/trunk/src/main/java/com/nullfish/app/jfd2/ui/labels/EqualSizePanel.java
+END
+MarkCountLabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/35/trunk/trunk/src/main/java/com/nullfish/app/jfd2/ui/labels/MarkCountLabel.java
+END
+FileSumLabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/35/trunk/trunk/src/main/java/com/nullfish/app/jfd2/ui/labels/FileSumLabel.java
+END
